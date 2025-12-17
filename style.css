@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial;
+}
+
+.login-box {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+#result {
+    color: red;
+}
